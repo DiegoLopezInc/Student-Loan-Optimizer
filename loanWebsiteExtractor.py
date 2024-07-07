@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Target URL (to be replaced with any loan webpage URL)
-# TPDO: Replace "TODO" with the URL of the loan webpage
+# TODO: Replace "TODO" with the URL of the loan webpage
 url = "TODO"
 
 # Send GET request and get HTML content
