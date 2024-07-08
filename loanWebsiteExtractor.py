@@ -38,3 +38,5 @@ print(f"Loan Info: {loan_info}")
 # Create a new Loan object with extracted information
 # TODO: Replace values in initializer with the extracted information
 loan = loanClass.Loan(lender="Lender", id="ID", principle=1000, interest_rate=0.05, loan_term=12, monthly_payment=100, total_paid=500, total_interest=50)
+
+# TODO: Store loan object in a list or other data structure for further processing or display
